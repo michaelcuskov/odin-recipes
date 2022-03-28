@@ -1,0 +1,31 @@
+* {
+    font-family: "Garamond", "Times New Roman", serif;
+    background-color: slategray;
+    color: darkslategray;
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(54, 54, 54);
+}
+.header {
+    font-weight: bold;
+    color: black;
+}
+li {
+    font-size: 18px;
+    color: rgb(35, 48, 13);
+    font-style: italic;
+    text-align: left;
+}
+a {
+    color: darkslateblue;
+}
+.menu li {
+    text-align: center;
+    font-style: normal;
+    color: darkslateblue;
+}
